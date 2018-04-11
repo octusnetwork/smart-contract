@@ -1,2 +1,2 @@
 # smart-contract
-Octus Smart contract
+Octus' Smart contract
